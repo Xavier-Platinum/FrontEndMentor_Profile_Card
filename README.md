@@ -1,8 +1,8 @@
-# Frontend Mentor - Profile card component
+# `Frontend Mentor - Profile card component`
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## `Welcome! 👋`
 
 Thanks for checking out this front-end coding challenge.
 
@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+## `The challenge`
 
 Your challenge is to build out this profile card component and get it looking as close to the design as possible.
 
@@ -18,7 +18,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-## Where to find everything
+## `Where to find everything`
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
 
@@ -57,10 +57,10 @@ There are multiple places you can share your solution:
 2. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
 3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 
-## Giving feedback
+## `Giving feedback`
 
 Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+`**Have fun building!** 🚀`
